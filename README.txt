@@ -1,4 +1,4 @@
-Este es una consigna resuleta del curso de datascience de coder house
+Este es una consigna resuelta de la Comision 22740 DataScience de coder house
 
 fecha de realizacion 19/12/2021
 
